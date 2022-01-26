@@ -1,0 +1,15 @@
+#operators
+power = 3**5
+print("Power operator", power)
+
+division=4/5
+print("Division operator",division)
+
+remainder=21%6
+print("Remainder operator", remainder)
+
+subtraction=8-5
+print("Subtraction operator", subtraction)
+
+addition=1+8
+print("Addition operator", addition)
