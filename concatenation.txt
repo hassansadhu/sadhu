@@ -1,0 +1,12 @@
+#concatenation
+
+str1="hassan"
+
+str2="sadhu"
+
+a=str(10)
+print(str1+str2)
+
+print(str1*10)
+
+print(str1+a)
